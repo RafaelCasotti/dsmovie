@@ -24,3 +24,6 @@ Criação de uma aplicação chamada DSMovie um site que faz avaliações de fil
 - `TypeScript`
 - `React`
 - `Bootstrap`
+
+## :bulb: Link do site hospedado
+https://createdsmovie.netlify.app/ 
